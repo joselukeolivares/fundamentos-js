@@ -1,6 +1,7 @@
-//var nombre="jose luis"
+var nombre="jose luis"
+var edad=33
 
-var nombre
+//var nombre
 
 nombre="jose luis"
 
